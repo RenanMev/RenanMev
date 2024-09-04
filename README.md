@@ -9,6 +9,8 @@ Meu nome é Renan e sou apaixonado por programação. Comecei desenvolvendo func
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RenanMev&show_icons=true&theme=radical)
 
+![Atividades Recentes](https://github-readme-streak-stats.herokuapp.com/?user=RenanMev&theme=radical)
+
 ### 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** Java, JavaScript,
 - **Front-end:** React, HTML, CSS, Sass, ShadcnUi, TailWind
@@ -16,20 +18,7 @@ Meu nome é Renan e sou apaixonado por programação. Comecei desenvolvendo func
 - **Banco de Dados:** MySQL
 - **Ferramentas:** Git, Docker, VS Code
 
-### 📊 Estatísticas do GitHub
-
-![Atividades Recentes](https://github-readme-streak-stats.herokuapp.com/?user=RenanMev&theme=radical)
-
 ![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RenanMev&repo=ImmoLog-v3&theme=radical)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMev&layout=compact&theme=radical)
-
-### 📂 Repositórios Importantes
-
-- [Front ImmoLog](https://github.com/RenanMev/ImmoLog-v3) 
-- [Back ImmoLog](https://github.com/RenanMev/ImmoLog-back-v1)
-
-**ImmoLog** é um projeto SaaS para controle de gestão focado em imóveis para imobiliárias, desenvolvido em React, Node, Express, ShadcnUi e Tailwind.
 
 ### 🌐 Conecte-se Comigo
 
