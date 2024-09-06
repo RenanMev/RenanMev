@@ -4,7 +4,6 @@
 
 Meu nome é Renan e sou apaixonado por programação. Comecei desenvolvendo funcionalidades em Java para servidores de Minecraft e explorei áreas como design, edição de vídeos e animação 3D. No entanto, foi na programação que me encontrei. Iniciei focado no front-end, mas também me aprofundei no back-end. Hoje, tenho um bom conhecimento em ambas as áreas, além de noções de UI & UX.
 - 🌱 Aprendendo mais sobre: **Ruby** e **React Native**
-- 💬 Pergunte-me sobre: Desenvolvimento Web, APIs, Integração Contínua
 - 📫 Como me encontrar: [Seu Email](renandznfam@gamil.com) | [LinkedIn](https://www.linkedin.com/in/renanmev) 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RenanMev&show_icons=true&theme=radical)
