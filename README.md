@@ -1,12 +1,14 @@
-# 👋 Olá! Eu sou Renan
+### Tradução para inglês:
+
+# 👋 Hello! I'm Renan
 
 <div align="center">
-  <h3>🚀 Sobre Mim</h3>
-    Meu nome é Renan sou desenvolvoedor FullStack focado 100% em usabilidade e experiencia!, foco em ter aplicações bonitas e fluidas!
+  <h3>🚀 About Me</h3>
+    My name is Renan, and I'm a FullStack developer with a 100% focus on usability and user experience! I aim to create beautiful and smooth applications!
   <br>
-  🌱 Aprendendo mais sobre: **Ruby** e **React Native**
+  🌱 Currently learning more about: **Ruby** and **React Native**
   <br>
-  📫 Como me encontrar: 
+  📫 How to reach me: 
   
   [Renandzmfa@gmail.com](mailto:Renandzmfa@gmail.com) 
   
@@ -14,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h3>• Tecnologias & Ferramentas</h3>
+  <h3>• Technologies & Tools</h3>
   
   [![Technologies](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,styledcomponents,figma,nodejs,express,mysql,aws,vue,java,spring)](https://www.linkedin.com/in/renanmev/)
   
@@ -22,7 +24,7 @@
 
 <div align="center">
   
-  [![Atividades Recentes](https://github-readme-streak-stats.herokuapp.com/?user=RenanMev&theme=radical)](https://github.com/RenanMev)
+  [![Recent Activities](https://github-readme-streak-stats.herokuapp.com/?user=RenanMev&theme=radical)](https://github.com/RenanMev)
   
 </div>
 
@@ -34,12 +36,8 @@
 
 <div align="center">
 
-### 🌐 Conecte-se Comigo
+### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanmev/)](https://www.linkedin.com/in/renanmev/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RenanMev/)](https://github.com/RenanMev/)
 
 </div>
-
----
-
-⭐️ **Dica:** Não se esqueça de dar uma estrela nos repositórios que você curtiu!
