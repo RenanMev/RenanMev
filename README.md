@@ -1,43 +1,29 @@
-### Tradução para inglês:
+# Hey, I'm Renan 👋
 
-# 👋 Hello! I'm Renan
+I'm a Full-stack Developer who likes building useful, clean and well-crafted digital products.
 
-<div align="center">
-  <h3>🚀 About Me</h3>
-    My name is Renan, and I'm a FullStack developer with a 100% focus on usability and user experience! I aim to create beautiful and smooth applications!
-  <br>
-  🌱 Currently learning more about: **Ruby** and **React Native**
-  <br>
-  📫 How to reach me: 
-  
-  [Renandzmfa@gmail.com](mailto:Renandzmfa@gmail.com) 
-  
-  [LinkedIn](https://www.linkedin.com/in/renanmev)
-</div>
+I work across frontend and backend, but I have a strong eye for usability, interface details and product experience. I care about writing maintainable code, creating smooth user flows and turning ideas into applications that feel simple to use.
 
-<div align="center">
-  <h3>• Technologies & Tools</h3>
-  
-  [![Technologies](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,styledcomponents,figma,nodejs,express,mysql,aws,vue,java,spring)](https://www.linkedin.com/in/renanmev/)
-  
-</div>
+## A bit about me
 
-<div align="center">
-  
-  [![Recent Activities](https://github-readme-streak-stats.herokuapp.com/?user=RenanMev&theme=radical)](https://github.com/RenanMev)
-  
-</div>
+- I enjoy working close to product and design decisions
+- I like building interfaces that are fast, clear and polished
+- I care about code that is easy to understand, maintain and evolve
+- I'm comfortable moving between UI, APIs, databases and integrations
+- Currently learning more about **Ruby** and **React Native**
 
-<div align="center">
-  
-![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=RenanMev&repo=ImmoLog-v3&theme=radical)
+## Things I work with
 
-</div>
+**Frontend:** React, Next.js, Vue, TypeScript, JavaScript  
+**Styling:** Tailwind CSS, Styled Components  
+**Backend:** Node.js, Express, Java, Spring, Ruby  
+**Database:** MySQL  
+**Tools:** AWS, Figma, Git, GitHub
 
-<div align="center">
+## Featured project
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanmev/)](https://www.linkedin.com/in/renanmev/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RenanMev/)](https://github.com/RenanMev/)
+[![ImmoLog-v3](https://github-readme-stats.vercel.app/api/pin/?username=RenanMev&repo=ImmoLog-v3&theme=transparent&hide_border=true)](https://github.com/RenanMev/ImmoLog-v3)
 
-</div>
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/renanmev/) · [GitHub](https://github.com/RenanMev) · [Email](mailto:Renandzmfa@gmail.com)
