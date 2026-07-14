@@ -22,7 +22,7 @@ I work across frontend and backend, but I have a strong eye for usability, inter
 
 ## Featured project
 
-[![ImmoLog-v3](https://github-readme-stats.vercel.app/api/pin/?username=RenanMev&repo=ImmoLog-v3&theme=transparent&hide_border=true)](https://github.com/RenanMev/ImmoLog-v3)
+(https://github.com/RenanMev/linvo-desktop)
 
 ## Find me
 
